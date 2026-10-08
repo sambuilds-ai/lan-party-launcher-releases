@@ -1,7 +1,6 @@
-# LAN Party Launcher v0.42.3
+# LAN Party Launcher v0.43.0
 
 ## Changes
 
-- preserve Armagetron Proton player profiles
-- use persistent Magicka Proton profile paths
-- prefill Armagetron Custom Connect bookmarks
+- add Big Box and persistent desktop sessions
+- load bundled Big Box assets in native sandbox
