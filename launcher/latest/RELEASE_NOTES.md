@@ -1,5 +1,5 @@
-# LAN Party Launcher v0.42.0
+# LAN Party Launcher v0.42.1
 
 ## Changes
 
-- align desktop HUD and configure Freelancer launches
+- apply Quake III settings before renderer startup
