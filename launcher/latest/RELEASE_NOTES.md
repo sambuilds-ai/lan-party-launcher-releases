@@ -1,5 +1,5 @@
-# LAN Party Launcher v0.43.1
+# LAN Party Launcher v0.43.2
 
 ## Changes
 
-- keep standalone and PE32 game launches compatible
+- correct SWAT, Carmageddon and Terraria launches
