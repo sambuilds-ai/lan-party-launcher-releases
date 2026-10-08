@@ -1,6 +1,5 @@
-# LAN Party Launcher v0.43.0
+# LAN Party Launcher v0.43.1
 
 ## Changes
 
-- add Big Box and persistent desktop sessions
-- load bundled Big Box assets in native sandbox
+- keep standalone and PE32 game launches compatible
