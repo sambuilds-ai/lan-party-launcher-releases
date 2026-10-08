@@ -1,5 +1,5 @@
-# LAN Party Launcher v0.42.1
+# LAN Party Launcher v0.42.2
 
 ## Changes
 
-- apply Quake III settings before renderer startup
+- load and preserve Zandronum player settings
