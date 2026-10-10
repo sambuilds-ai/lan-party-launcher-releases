@@ -1,5 +1,5 @@
-# LAN Party Launcher v0.44.1
+# LAN Party Launcher v0.45.0
 
 ## Changes
 
-- keep X-Wing Alliance tracked while its engine runs
+- add City of Heroes on Homecoming
