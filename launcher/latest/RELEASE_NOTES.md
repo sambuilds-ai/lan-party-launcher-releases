@@ -1,8 +1,9 @@
-# LAN Party Launcher v0.46.0
+# LAN Party Launcher v0.46.1
 
 ## Changes
 
-- Add a Proton cartridge row so Plague Inc launches on CachyOS
-- show Asheron's Call box art for every AC and Aetherium entry
-- add an Offworld LAN session switch to the desktop Library
-- keep SVG catalogue icons after the original icon
+- larger game names, literal punctuation and the Dark Majesty box
+- let rediscovered Offworld installs join the LAN session
+- keep the Offworld CA fallback inside the cartridge
+- pick a live AC1999 realm for Library Play
+- retry Ctrl+K until the Library is listening
