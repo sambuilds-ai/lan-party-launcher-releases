@@ -1,5 +1,6 @@
-# LAN Party Launcher v0.46.2
+# LAN Party Launcher v0.46.3
 
 ## Changes
 
-- send pre-LAN Offworld installs to the Games page Update
+- Add a Total Annihilation cartridge with widescreen and LAN hosting on Proton
+- Gate the Total Annihilation display seed to Linux so the Windows launcher builds
