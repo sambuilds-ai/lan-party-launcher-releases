@@ -1,6 +1,5 @@
-# LAN Party Launcher v0.47.2
+# LAN Party Launcher v0.47.3
 
 ## Changes
 
-- Manage build storage: deploy disk floor, launcher build retention, workspace pruning
-- Let Plague Inc players find each other through CachyOS's firewall
+- Add an Offworld Trading Company cart with the game's own custom lobbies
