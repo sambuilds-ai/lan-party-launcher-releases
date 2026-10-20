@@ -1,6 +1,7 @@
-# LAN Party Launcher v0.46.3
+# LAN Party Launcher v0.47.0
 
 ## Changes
 
-- Add a Total Annihilation cartridge with widescreen and LAN hosting on Proton
-- Gate the Total Annihilation display seed to Linux so the Windows launcher builds
+- install and update games from the desktop Library
+- Desktop app: answer the health and launch-log reads bug reports make
+- Desktop GameSpy: show every server's status as a word
