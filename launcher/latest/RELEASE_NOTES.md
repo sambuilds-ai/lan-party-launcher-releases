@@ -1,5 +1,6 @@
-# LAN Party Launcher v0.47.6
+# LAN Party Launcher v0.47.7
 
 ## Changes
 
-- Add a Firewall Checker for the ports player-hosted games need
+- Lay out desktop server settings as a compact landscape Name | Value table
+- Keep desktop server-setting dropdowns as short as the text fields
