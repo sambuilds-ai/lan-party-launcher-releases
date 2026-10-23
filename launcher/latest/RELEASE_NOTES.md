@@ -1,6 +1,6 @@
-# LAN Party Launcher v0.47.9
+# LAN Party Launcher v0.47.10
 
 ## Changes
 
-- Make the desktop app as readable and distinct as the web dashboard
-- Draw the desktop HUD texture and form controls the same on WebKitGTK
+- Show server names in the desktop GameSpy list like the web lobby
+- Use the amber focus ring on Scores and the HUD chat skin and keep the current breadcrumb whole
