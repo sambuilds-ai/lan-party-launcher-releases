@@ -1,6 +1,5 @@
-# LAN Party Launcher v0.47.12
+# LAN Party Launcher v0.48.0
 
 ## Changes
 
-- Record where games connect while they run and show it to admins
-- hide incompatible versions from launcher discovery
+- add offline ShieldBattery StarCraft cartridge
