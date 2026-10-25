@@ -1,5 +1,6 @@
-# LAN Party Launcher v0.47.11
+# LAN Party Launcher v0.47.12
 
 ## Changes
 
-- Read Plague Inc wins and losses from the game's log and report them at exit
+- Record where games connect while they run and show it to admins
+- hide incompatible versions from launcher discovery
