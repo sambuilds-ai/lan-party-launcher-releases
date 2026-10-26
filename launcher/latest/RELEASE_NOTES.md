@@ -1,5 +1,5 @@
-# LAN Party Launcher v0.48.0
+# LAN Party Launcher v0.48.1
 
 ## Changes
 
-- add offline ShieldBattery StarCraft cartridge
+- restore GameSpy categories and compact search
