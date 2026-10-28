@@ -1,8 +1,5 @@
-# LAN Party Launcher v0.48.3
+# LAN Party Launcher v0.48.4
 
 ## Changes
 
-- Group mods under their base game in the desktop Library
-- Launch Zero Hour carts without Steam
-- Add Zero Hour offline and GeneralsOnline cartridge builds
-- Cover the Library mod groups in Playwright
+- Add three selectable desktop looks: Night Shift (default), Big Box and Beige Box
