@@ -1,11 +1,12 @@
-# LAN Party Launcher v0.48.9
+# LAN Party Launcher v0.48.10
 
 ## Changes
 
-- Group the Asheron's Call editions in the Library and bundle the Warcraft II cover
-- Prepare canned Brutal Doom co-op and Foundry horde servers
-- Keep Brutal Doom preset data inside the app image and query presets like Brutal Doom
-- Keep key presses and focus from scrolling the app shell off the page
-- Add a Project Zomboid cart built from the GOG Windows release
-- Load the Brutal Doom preset data in its spec without a JSON module import
-- Sign in before checking the bundled Warcraft II cover
+- Show only playing bots in the community and use a light bulb for reports
+- Let GameSpy columns and Classic panels be resized
+- Cancel a GameSpy resize drag when the window loses focus
+- Keep the Classic GameSpy game tree packed to the top
+- Start GameSpy keyboard specs next to their targets
+- Split the Classic roving-rows GameSpy scenario into three tests
+- Make GameSpy column dividers follow the pointer
+- Keep a shrinking GameSpy divider under the pointer when scrolled right

@@ -1,0 +1,6 @@
+63be71be50b7155dd09bf486a13ae50f4fa78a7c053693725a92bacb97f6472c  LAN-Party-Launcher-Setup-v0.48.10.exe
+ed7c3e25f345b398f3325b5c16185b0515a3351b66cd9bc89b13d29de22b4779  MANIFEST.txt
+8427b1fc58ec707813e5c0a51eb5d69397bb333250a7b891be4d3b123f1e0f1c  WebView2Loader.dll
+25d36679d9ec601d4b55ee82d842fd6faa34fbad9e05c0cf0777e6e4e9f273b3  lan-party-launcher-v0.48.10-linux-x86_64.contents.sha256
+d3796cf7315f47be8f25b2e4ada7198be03fd33ca1f1ca893e33d1b087fc4c2f  lan-party-launcher-v0.48.10-linux-x86_64.tar.gz
+815b2493e4ed8df21a9c02d056519310eb5915cd8ac3509e761cd80366a9a986  lan-party-launcher-v0.48.10.exe
