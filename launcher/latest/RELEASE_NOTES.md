@@ -1,8 +1,12 @@
-# LAN Party Launcher v0.48.12
+# LAN Party Launcher v0.48.13
 
 ## Changes
 
-- Update Accounts comments for the Play Tools sidebar entry
-- Add F12 screenshots and Alt+R recordings for launcher games
-- Leave the recording still being written out of the recent captures list
-- Refuse captures in a Wayland session instead of recording black frames
+- Add a compact GameSpy view and drop the heading's orange period
+- Keep compact GameSpy download labels inside their button
+- Split the compact GameSpy spec into shorter tests
+- Light up talking avatars, add mute sounds and a clickable 80s equalizer
+- Keep voice feedback current: live speaking state, newest cue only
+- Drop the Voice & Video note that says there are no mute sounds
+- Split the voice feedback spec into shorter tests
+- Draw the speaking ring as a circle around the round avatar
