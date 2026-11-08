@@ -1,12 +1,28 @@
-# LAN Party Launcher v0.48.14
+# LAN Party Launcher v0.48.15
 
 ## Changes
 
-- Add a game frame: voice video in columns beside a windowed game
-- Give the 3440 x 1440 game frame spec the slow-test budget
-- Keep yourself out of the game frame columns
-- Give the game frame the chat tokens it is drawn with
-- Show a top-right toast and a REC badge above games for captures
-- Size capture toasts to their text and draw their own glyphs
-- Make the capture overlay click-through on the GDK window after showing it
-- Measure the first capture toast and badge with their contents shown
+- Stand library boxes on a real bookshelf and give MS-DOS games box art
+- Give shelf spines the standard 2 px focus outline
+- Navigate with the mouse side buttons and name the page on bug reports
+- Take mouse side buttons before Wry's handlers
+- Keep reports without diagnostics on the review board
+- Add Warcraft II voice lines to the soundboard and show soundboard speech
+- Budget soundboard audio per listener and clear speaking state on time
+- Add Streams to chat: go live without voice and watch from the chat pane
+- Keep voice independent of streams and recover a live stream after reload
+- Make stopping a finished stream a no-op
+- Let admins choose which sidebar pages standard users see
+- Save page visibility one toggle at a time and keep voice alive when Chat is hidden
+- Send deep links and shortcuts to hidden pages to the unavailable notice
+- Close the soundboard spec before the hidden Chat voice specs
+- Keep the shell navigation bridge free of page imports
+- Fix the release candidate's Rust build and keep launcher UI tests self-contained
+- Accept the global reduced-motion duration in the shelf spec
+- Read the page group order where it now lives in the shell spec
+- Toggle mute with End and call voice activity open mic
+- Send the mute binding only when the End migration needs saving
+- Make the new voice, settings and shelf specs match the real UI
+- Pause the soundboard spec's clock only after voice has joined
+- Give the packed-shelf spec the slow-test budget
+- Leave the soundboard spec's clock pause a safe margin
