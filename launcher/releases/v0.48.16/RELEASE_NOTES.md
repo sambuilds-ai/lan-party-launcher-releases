@@ -1,0 +1,41 @@
+# LAN Party Launcher v0.48.16
+
+## Changes
+
+- Test the soundboard pads with a longer clip instead of a fake clock
+- Use a 2 s soundboard test clip so four presses stay inside the burst window
+- Close conversations, collapse chat sections and leave ICQ mode
+- Keep conversations closed from the header menu and test the real remount
+- Replace the native event date picker with an in-app date field
+- Simplify the profile card: pencil edit, icon buttons, current game
+- Accept the near-zero reduced-motion duration in the profile card spec
+- Show your avatar, unread mail and connection bars in the header
+- Take the header unread count from the conversation list itself
+- Let fresh channel data win over the shared conversation list
+- Add Heroic games to the desktop Library and launch them through Heroic
+- Launch Heroic without blocking, follow search, show discovery errors
+- Launch each Heroic game through the install that owns it
+- Launch native Heroic only through its own executable; check Flatpak app
+- Stop the browser menu on right-click and fix offline header bars
+- Fetch the header unread list once per sign-in and update shell specs
+- Use the suite's default timeout for the Heroic Library specs
+- Answer the Heroic read in the library maintenance fixtures
+- Open the Library from the Big Box top bar in the Heroic spec
+- Answer the Heroic read in the default desktop test fixture
+- Let the shell spec's paused clock run the Ctrl+K focus frame
+- Give the Events page the Event poster layout
+- Keep overnight schedules in saved order and focus after deleting
+- Add Neon trim to Night Shift and lay out Community people first
+- Keep Classic GameSpy readable and route Community joins through accounts
+- Return focus when Delete is cancelled; check poster notes per slot
+- Mock the MMO accounts response in its real shape in Community specs
+- Group Library versions behind an art badge; use banner tiles
+- Keep the Library badge popover anchored and its Tab order local
+- Hold banner art still on hover and focus badges by keyboard in specs
+- Give game titles, maps, numbers, times and ping their own colours
+- Turn GameSpy's Classic view into a period server browser window
+- Colour Community's new layout with the data roles; steady its clock spec
+- Keep page-visibility gating on the new Community layout
+- Compare focus outlines by part so the specs pass in WebKit
+- Install the Community freshness clock before the pause time
+- Blur only box-art backdrops in the Library, and blur them lightly

@@ -1,28 +1,41 @@
-# LAN Party Launcher v0.48.15
+# LAN Party Launcher v0.48.16
 
 ## Changes
 
-- Stand library boxes on a real bookshelf and give MS-DOS games box art
-- Give shelf spines the standard 2 px focus outline
-- Navigate with the mouse side buttons and name the page on bug reports
-- Take mouse side buttons before Wry's handlers
-- Keep reports without diagnostics on the review board
-- Add Warcraft II voice lines to the soundboard and show soundboard speech
-- Budget soundboard audio per listener and clear speaking state on time
-- Add Streams to chat: go live without voice and watch from the chat pane
-- Keep voice independent of streams and recover a live stream after reload
-- Make stopping a finished stream a no-op
-- Let admins choose which sidebar pages standard users see
-- Save page visibility one toggle at a time and keep voice alive when Chat is hidden
-- Send deep links and shortcuts to hidden pages to the unavailable notice
-- Close the soundboard spec before the hidden Chat voice specs
-- Keep the shell navigation bridge free of page imports
-- Fix the release candidate's Rust build and keep launcher UI tests self-contained
-- Accept the global reduced-motion duration in the shelf spec
-- Read the page group order where it now lives in the shell spec
-- Toggle mute with End and call voice activity open mic
-- Send the mute binding only when the End migration needs saving
-- Make the new voice, settings and shelf specs match the real UI
-- Pause the soundboard spec's clock only after voice has joined
-- Give the packed-shelf spec the slow-test budget
-- Leave the soundboard spec's clock pause a safe margin
+- Test the soundboard pads with a longer clip instead of a fake clock
+- Use a 2 s soundboard test clip so four presses stay inside the burst window
+- Close conversations, collapse chat sections and leave ICQ mode
+- Keep conversations closed from the header menu and test the real remount
+- Replace the native event date picker with an in-app date field
+- Simplify the profile card: pencil edit, icon buttons, current game
+- Accept the near-zero reduced-motion duration in the profile card spec
+- Show your avatar, unread mail and connection bars in the header
+- Take the header unread count from the conversation list itself
+- Let fresh channel data win over the shared conversation list
+- Add Heroic games to the desktop Library and launch them through Heroic
+- Launch Heroic without blocking, follow search, show discovery errors
+- Launch each Heroic game through the install that owns it
+- Launch native Heroic only through its own executable; check Flatpak app
+- Stop the browser menu on right-click and fix offline header bars
+- Fetch the header unread list once per sign-in and update shell specs
+- Use the suite's default timeout for the Heroic Library specs
+- Answer the Heroic read in the library maintenance fixtures
+- Open the Library from the Big Box top bar in the Heroic spec
+- Answer the Heroic read in the default desktop test fixture
+- Let the shell spec's paused clock run the Ctrl+K focus frame
+- Give the Events page the Event poster layout
+- Keep overnight schedules in saved order and focus after deleting
+- Add Neon trim to Night Shift and lay out Community people first
+- Keep Classic GameSpy readable and route Community joins through accounts
+- Return focus when Delete is cancelled; check poster notes per slot
+- Mock the MMO accounts response in its real shape in Community specs
+- Group Library versions behind an art badge; use banner tiles
+- Keep the Library badge popover anchored and its Tab order local
+- Hold banner art still on hover and focus badges by keyboard in specs
+- Give game titles, maps, numbers, times and ping their own colours
+- Turn GameSpy's Classic view into a period server browser window
+- Colour Community's new layout with the data roles; steady its clock spec
+- Keep page-visibility gating on the new Community layout
+- Compare focus outlines by part so the specs pass in WebKit
+- Install the Community freshness clock before the pause time
+- Blur only box-art backdrops in the Library, and blur them lightly
