@@ -1,22 +1,16 @@
-# LAN Party Launcher v0.48.17
+# LAN Party Launcher v0.48.18
 
 ## Changes
 
-- Put the connection bars where the About button was and give Chat dialogs a solid backdrop
-- Let people right-click a sidebar item or Big Box tab to make it the start page
-- Rename the start page state so it no longer shadows launch
-- Keep the checked start page reachable and leave no dead Back entry
-- Add a shelf size control and put every Library and GameSpy game on the bookshelf
-- Show our games first on the bookshelf and make shelf sizes change what you see
-- Expect every archived edition of a game's box on our shelf
-- Give Go live and Share screen one source picker that says why a list is empty
-- Make Go live's Wayland path explicit and stop preselecting the whole desktop
-- Lay out the voice settings as Discord-style tabs
-- Match the I2 voice settings comp: tab placement, Change and Clear keybind actions
-- Offer an always-visible voice join in the sidebar
-- Keep sidebar voice from hijacking the mic test and from flipping Join muted
-- Give the voice callback tests the new sidebar helpers
-- Open the Advanced voice tab when Settings search names the sidebar switch
-- Expect End outside a call to leave Join muted alone in the voice tabs spec
-- Restore Chat dialog padding, make the Share-screen chooser closable, and fill bookshelf pages
-- Keep the measured shelf width while the Library is hidden
+- Add the desktop half of the admin Claude assistant, kept across look switches
+- Keep zod out of the desktop assistant and fix history, refresh and failure handling
+- Compare the retried chat requests by value
+- Refresh only the event an assistant change touched, keep focus, and show real Apply errors
+- Let End toggle mute while a LAN Party game is running
+- Track modifiers in event order, let LAN Party veto typing presses, and own presses by press
+- Keep the in-game mute unit tests from hanging on a slow machine
+- Name the assistant's message box and keep Send off for an empty cleaned draft
+- Treat stale interface options as echoes and re-read focus for the typing veto
+- Wire the in-game mute key into the tabbed voice settings
+- Keep the in-game mute key out of focused tab bars and fix the dock's keybind caption
+- Style the Claude opener like the other header buttons and let Settings search find the in-game mute switch
