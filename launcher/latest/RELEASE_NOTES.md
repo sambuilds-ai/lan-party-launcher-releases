@@ -1,10 +1,12 @@
-# LAN Party Launcher v0.48.26
+# LAN Party Launcher v0.48.27
 
 ## Changes
 
-- Move MS-DOS and Windows 3.1 games into Library with platform logo tiles (#368)
-- Fix #368 review round 1: msdos start page, Ctrl+K during play, platform switch stops the game, hide PC discovery on retro platforms
-- MS-DOS specs: scroll lazy covers into view under the platform row; stub engines in mocked control tests (#368)
-- Fix #368 review round 3: games open at the top, a steady platform row, retro games under Installed, matching tab counts
-- Scope the Library discovery error assertion to the discovery control (#368)
-- Aim the badge popover's outside click clear of the panel (#368)
+- one status, balanced columns, Next map, Columns menu (#370) and a collapsible side panel (#371)
+- #370/#371 specs: focus menu checkboxes and panel tab explicitly before keyboard steps (WebKit)
+- #370/#371 fix round 1: sticky narrow overlay, one tree for both views, computed narrow threshold
+- #370/#371 fix round 2: one table minimum, stable narrow measure, panel scroll reset, safe column toggles
+- #370/#371 fix round 3: history-free narrow; deferred column toggles hydrate like measured ones
+- #370/#371 specs: deterministic Services panel opening, resize columns with room, drop unreachable signed-out case
+- #370/#371 native smoke fixes: Status fits "Not responding", page-wide Escape for the overlay, addresses break at parts, map dash
+- #370/#371 review fixes: a shown Address gives way first; outside-panel Escape keeps focus
